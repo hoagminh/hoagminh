@@ -22,42 +22,6 @@
 
 <!-- EN CONTENT START -->
 
-## 👋 Hi, I'm Minh — Frontend Developer
-
-I'm a **React / Next.js** frontend developer focused on **performance**, **clean architecture**, and **smooth UI/UX**.
-
-### 🧩 Tech Stack
-
-* **Frontend:** React, Next.js, TypeScript, TailwindCSS
-* **State:** Zustand, React Query
-* **Backend Tools:** Supabase, PostgreSQL
-
-### 🚀 Featured Projects
-
-* 🔹 **Realtime Dashboard** — WebSocket streaming, multi-tab sync
-* 🔹 **PDF Knowledge System** — Upload, search, categorize PDF
-* 🔹 **Crypto Landing Page** — Three.js 3D intro + GSAP animations
-
-### 📚 Learning
-
-Next.js 15 • Scalable architecture • Performance optimization
-
----
-
-### 📫 Contact
-
-**Email:** [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-
-<!-- EN CONTENT END -->
-
-</details>
-
----
-
----
-
-# 🇬🇧 English Version
-
 ## 👋 Hi, I'm Minh — Frontend Developer (ReactJS)
 
 🚀 **Frontend Developer** experienced in building modern, scalable web applications using **ReactJS, TypeScript, Next.js**, and modern FE tooling. I focus on **clean architecture, performance optimization, smooth UI/UX**, and maintainable code.
@@ -68,7 +32,7 @@ Next.js 15 • Scalable architecture • Performance optimization
 ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • Redux Toolkit • Jotai • React Query
 
 **Backend / Tools**
-PostgreSQL • Supabase • Firebase • Node.js • WebSocket
+PostgreSQL • Supabase • Node.js • WebSocket
 
 **Others**
 Jest • Docker • Vercel • Netlify • Cloudflare
@@ -88,9 +52,16 @@ Next.js 15 • Advanced architecture • Performance / micro-frontend
 Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
 LinkedIn: linkedin.com/in/hoagminh
 
+<!-- EN CONTENT END -->
+
+</details>
+
 ---
 
-# 🇻🇳 Phiên bản Tiếng Việt
+<details>
+<summary>🇻🇳 Phiên bản Tiếng Việt</summary>
+
+<!-- EN CONTENT START -->
 
 ## 👋 Xin chào, mình là Minh — Frontend Developer (ReactJS)
 
@@ -102,7 +73,7 @@ LinkedIn: linkedin.com/in/hoagminh
 ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • Redux Toolkit • Jotai • React Query
 
 **Backend / Tools**
-PostgreSQL • Supabase • Firebase • Node.js • WebSocket
+PostgreSQL • Supabase • Node.js • WebSocket
 
 **Khác**
 Jest • Docker • Vercel • Netlify • Cloudflare
@@ -121,6 +92,10 @@ Next.js 15 • Kiến trúc FE nâng cao • Tối ưu hiệu năng
 
 Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
 LinkedIn: linkedin.com/in/hoagminh
+
+<!-- EN CONTENT END -->
+
+</details>
 
 ---
 
