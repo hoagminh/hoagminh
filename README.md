@@ -17,8 +17,6 @@
 
 ---
 
-> 🔄 **Language Toggle**: Click to switch between English / Tiếng Việt
-
 <details>
 <summary>🇬🇧 English Version</summary>
 
@@ -43,60 +41,6 @@ I'm a **React / Next.js** frontend developer focused on **performance**, **clean
 ### 📚 Learning
 
 Next.js 15 • Scalable architecture • Performance optimization
-
-## 🖼️ Project Showcase
-
-<!-- Card-style project showcase (works on GitHub README) -->
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://via.placeholder.com/320x150.png?text=Realtime+Dashboard" alt="Realtime Dashboard" width="320" />
-
-```
-  <h3>🔷 Realtime Dashboard</h3>
-  <p style="max-width:320px;margin:0;">Live data streaming with multi-tab sync and modular widgets.</p>
-  <p>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
-    <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-0088CC?logo=websockets&logoColor=white" />
-    <img alt="Zustand" src="https://img.shields.io/badge/Zustand-2F9BDB?logo=zustand&logoColor=white" />
-  </p>
-  <p>
-    <a href="#" >🔗 Demo</a> • <a href="#">📂 Source</a>
-  </p>
-</td>
-
-<td align="center" valign="top" width="33%">
-  <img src="https://via.placeholder.com/320x150.png?text=PDF+Knowledge+System" alt="PDF Knowledge" width="320" />
-  
-  <h3>📚 PDF Knowledge System</h3>
-  <p style="max-width:320px;margin:0;">Upload, full-text search, and categorize PDF documents with role-based access.</p>
-  <p>
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  </p>
-  <p>
-    <a href="#">🔗 Demo</a> • <a href="#">📂 Source</a>
-  </p>
-</td>
-
-<td align="center" valign="top" width="33%">
-  <img src="https://via.placeholder.com/320x150.png?text=Crypto+Landing+Page" alt="Crypto Landing" width="320" />
-  
-  <h3>💠 Crypto Landing Page</h3>
-  <p style="max-width:320px;margin:0;">3D intro with Three.js and smooth GSAP animations for an engaging landing experience.</p>
-  <p>
-    <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" />
-    <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white" />
-  </p>
-  <p>
-    <a href="#">🔗 Demo</a> • <a href="#">📂 Source</a>
-  </p>
-</td>
-```
-
-  </tr>
-</table>
 
 ---
 
