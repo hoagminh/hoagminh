@@ -29,7 +29,7 @@
 ### 🔥 Tech Stack
 
 **Frontend**
-ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • Redux Toolkit • Jotai • React Query
+ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • React Query
 
 **Backend / Tools**
 PostgreSQL • Supabase • Node.js • WebSocket
@@ -45,12 +45,12 @@ Jest • Docker • Vercel • Netlify • Cloudflare
 
 ### 🌱 Learning
 
-Next.js 15 • Advanced architecture • Performance / micro-frontend
+Next.js 16 • Advanced architecture • Performance / micro-frontend
 
 ### 📨 Contact
 
 Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-LinkedIn: linkedin.com/in/hoagminh
+LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
 
 <!-- EN CONTENT END -->
 
@@ -59,7 +59,7 @@ LinkedIn: linkedin.com/in/hoagminh
 ---
 
 <details>
-<summary>🇻🇳 Phiên bản Tiếng Việt</summary>
+<summary>🇻🇳 Vietnamese Version</summary>
 
 <!-- EN CONTENT START -->
 
@@ -70,7 +70,7 @@ LinkedIn: linkedin.com/in/hoagminh
 ### 🔥 Tech Stack
 
 **Frontend**
-ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • Redux Toolkit • Jotai • React Query
+ReactJS • Next.js • TypeScript • Vite • TailwindCSS • Shadcn/UI • Chakra UI • Mantine • Zustand • React Query
 
 **Backend / Tools**
 PostgreSQL • Supabase • Node.js • WebSocket
@@ -86,12 +86,12 @@ Jest • Docker • Vercel • Netlify • Cloudflare
 
 ### 🌱 Đang học
 
-Next.js 15 • Kiến trúc FE nâng cao • Tối ưu hiệu năng
+Next.js 16 • Kiến trúc FE nâng cao • Tối ưu hiệu năng
 
 ### 📨 Liên hệ
 
 Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-LinkedIn: linkedin.com/in/hoagminh
+LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
 
 <!-- EN CONTENT END -->
 
