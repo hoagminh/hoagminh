@@ -16,9 +16,6 @@
 
 ---
 
-<details>
-<summary>🇬🇧 English Version</summary>
-
 <!-- EN CONTENT START -->
 
 ## 👋 Hi, I'm Minh — Frontend Developer (ReactJS)
@@ -48,12 +45,10 @@ Next.js 16 • Advanced architecture • Performance / micro-frontend
 
 ### 📨 Contact
 
-Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
+* Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
+* LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
 
 <!-- EN CONTENT END -->
-
-</details>
 
 ---
 
@@ -89,8 +84,8 @@ Next.js 16 • Kiến trúc FE nâng cao • Tối ưu hiệu năng
 
 ### 📨 Liên hệ
 
-Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
+* Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
+* LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
 
 <!-- EN CONTENT END -->
 
