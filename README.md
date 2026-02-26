@@ -1,12 +1,13 @@
 ```
-██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
-██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
-██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗
-██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝
-╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
- ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 
-             ✦ ✦ ✦  ABOUT ME  ✦ ✦ ✦
+                                  ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+                                  ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+                                  ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗
+                                  ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝
+                                  ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+                                   ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+                                  
+                                                   ✦ ✦ ✦  ABOUT ME  ✦ ✦ ✦
 ```
 
 <!-- Simple Markdown Animation Hack -->
@@ -20,9 +21,9 @@
 
 ## 👋 Hi, I'm Minh — Frontend Developer (ReactJS)
 
-🚀 I'm a **Frontend Developer** experienced in building modern, scalable web applications using **ReactJS, TypeScript, Next.js**, and modern FE tooling. I focus on **clean architecture, performance optimization, smooth UI/UX**, and maintainable code.
+I'm a **Frontend Developer** experienced in building modern, scalable web applications using **ReactJS, TypeScript, Next.js**, and modern FE tooling. I focus on **clean architecture, performance optimization, smooth UI/UX**, and maintainable code.
 
-## 🔥 Tech Stack
+## Tech Stack
 
 **Frontend:**
 * ReactJS • Next.js • TypeScript • Vite
@@ -35,17 +36,13 @@ PostgreSQL • Supabase • Node.js • WebSocket
 **Others:**
 Jest • Docker • Vercel • Netlify • Cloudflare
 
-## 📈 Featured Projects
+## Featured Projects
 
 * **Realtime Dashboard System** – Multi-tab sync, WebSocket streaming 24/7
 * **PDF Knowledge System** – Upload, search, read, categorize PDF with Supabase
 * **Crypto Landing Page** – Three.js 3D Bitcoin + GSAP animations
 
-## 🌱 Learning
-
-Advanced architecture • Performance / micro-frontend
-
-## 📨 Contact
+## Contact
 
 * Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
 * LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
@@ -59,9 +56,9 @@ Advanced architecture • Performance / micro-frontend
 
 ## 👋 Xin chào, mình là Minh — Frontend Developer (ReactJS)
 
-🚀 **Frontend Developer** có kinh nghiệm xây dựng các ứng dụng web hiện đại bằng **ReactJS, TypeScript, Next.js** với kiến trúc tối ưu, hiệu suất cao và UI/UX mượt mà.
+**Frontend Developer** có kinh nghiệm xây dựng các ứng dụng web hiện đại bằng **ReactJS, TypeScript, Next.js** với kiến trúc tối ưu, hiệu suất cao và UI/UX mượt mà.
 
-## 🔥 Tech Stack
+## Tech Stack
 
 **Frontend:**
 * ReactJS • Next.js • TypeScript • Vite
@@ -74,17 +71,13 @@ PostgreSQL • Supabase • Node.js • WebSocket
 **Khác:**
 Jest • Docker • Vercel • Netlify • Cloudflare
 
-### 📈 Dự án nổi bật
+### Dự án nổi bật
 
 * **Hệ thống Dashboard Realtime** – Đồng bộ đa tab, dữ liệu realtime bằng WebSocket
 * **Hệ thống quản lý PDF** – Upload, đọc, tìm kiếm và phân loại PDF (Next.js + Supabase)
 * **Trang Landing Crypto** – Intro 3D Bitcoin bằng Three.js + animation GSAP
 
-### 🌱 Đang học
-
-Kiến trúc FE nâng cao • Tối ưu hiệu năng
-
-### 📨 Liên hệ
+### Liên hệ
 
 * Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
 * LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
