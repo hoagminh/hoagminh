@@ -1,84 +1,38 @@
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:00FF94&height=220&section=header&text=HOAG%20MINH&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=WEB%20BUILDER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descSize=18&descAlignY=56&animation=fadeIn" alt="Hoang Minh banner" />
 
-██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
-██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
-██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗
-██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝
-╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
-╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-                                  
-                ✦ ✦ ✦  ABOUT ME  ✦ ✦ ✦
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+interactive+experiences.;Designing+with+intent.+Building+with+code.;Fast+%E2%80%A2+Expressive+%E2%80%A2+Memorable" alt="Typing introduction" />
+</p>
+
+## Hey, I'm Minh 👋
+
+I'm a **Web Builder & Creative Web Developer** who lives at the intersection of design, technology, and motion. I build digital experiences that feel polished, load fast, and leave a lasting impression.
+
+> **Good websites work. Great websites have a pulse.**
+
+### What I build
+
+- ✦ **Creative websites** — bold landing pages, portfolios, and brand experiences
+- ✦ **Modern web apps** — scalable products with thoughtful UX and clean architecture
+- ✦ **Interactive moments** — motion, 3D, and micro-interactions that make the web feel alive
+
+### Creative toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,nodejs,supabase,postgres,docker,cloudflare&theme=dark" alt="Creative development toolkit" />
+</p>
+
+```text
+> minh.build("bold ideas")
+
+  concept  →  interface  →  interaction  →  experience
+
+  status: crafting the web, one pixel at a time ✦
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C0FF&center=true&width=600&lines=Frontend+Developer;ReactJS+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Performance+%7C+UI%2FUX;Welcome+to+my+GitHub+Profile+✨" />
+  <a href="mailto:hoagminhit@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-111827?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email Minh" /></a>
+  <a href="https://www.linkedin.com/in/pham-hoang-minh-26a12125b/"><img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 </p>
 
-## 👋 Hi, I'm Minh — Frontend Developer (ReactJS)
-
-I'm a **Frontend Developer** experienced in building modern, scalable web applications using **ReactJS, TypeScript, Next.js**, and modern FE tooling. I focus on **clean architecture, performance optimization, smooth UI/UX**, and maintainable code.
-
-## Tech Stack
-
-**Frontend:**
-* ReactJS • Next.js • TypeScript • Vite
-* TailwindCSS • Shadcn/UI • Mantine
-* Zustand • React Query
-
-**Backend / Tools:**
-PostgreSQL • Supabase • Node.js • WebSocket
-
-**Others:**
-Jest • Docker • Vercel • Netlify • Cloudflare
-
-## Featured Projects
-
-* **Realtime Dashboard System** – Multi-tab sync, WebSocket streaming 24/7
-* **PDF Knowledge System** – Upload, search, read, categorize PDF with Supabase
-* **Crypto Landing Page** – Three.js 3D Bitcoin + GSAP animations
-
-## Contact
-
-* Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-* LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
-
-
-<details>
-<summary>🇻🇳 Vietnamese Version</summary>
-
-
-## 👋 Xin chào, mình là Minh — Frontend Developer (ReactJS)
-
-**Frontend Developer** có kinh nghiệm xây dựng các ứng dụng web hiện đại bằng **ReactJS, TypeScript, Next.js** với kiến trúc tối ưu, hiệu suất cao và UI/UX mượt mà.
-
-## Tech Stack
-
-**Frontend:**
-* ReactJS • Next.js • TypeScript • Vite
-* TailwindCSS • Shadcn/UI • Mantine
-* Zustand • React Query
-
-**Backend / Tools:**
-PostgreSQL • Supabase • Node.js • WebSocket
-
-**Khác:**
-Jest • Docker • Vercel • Netlify • Cloudflare
-
-### Dự án nổi bật
-
-* **Hệ thống Dashboard Realtime** – Đồng bộ đa tab, dữ liệu realtime bằng WebSocket
-* **Hệ thống quản lý PDF** – Upload, đọc, tìm kiếm và phân loại PDF (Next.js + Supabase)
-* **Trang Landing Crypto** – Intro 3D Bitcoin bằng Three.js + animation GSAP
-
-### Liên hệ
-
-* Email: [hoagminhit@gmail.com](mailto:hoagminhit@gmail.com)
-* LinkedIn: [linkedin.com/in/hoagminh](https://www.linkedin.com/in/pham-hoang-minh-26a12125b/)
-
-<!-- EN CONTENT END -->
-
-</details>
-
-
-⭐ *If you like my work, feel free to star my repositories!*
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00D9FF,100:7F00FF&height=110&section=footer" alt="Footer" />
