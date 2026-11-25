@@ -12,9 +12,9 @@ I'm a **Web Builder & Creative Web Developer** who lives at the intersection of 
 
 ### What I build
 
-✦ **Creative websites** — bold landing pages, portfolios, and brand experiences
-✦ **Modern web apps** — scalable products with thoughtful UX and clean architecture
-✦ **Interactive moments** — motion, 3D, and micro-interactions that make the web feel alive
+- ✦ **Creative websites** — bold landing pages, portfolios, and brand experiences
+- ✦ **Modern web apps** — scalable products with thoughtful UX and clean architecture
+- ✦ **Interactive moments** — motion, 3D, and micro-interactions that make the web feel alive
 
 ### Creative toolkit
 
