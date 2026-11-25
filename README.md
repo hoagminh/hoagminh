@@ -12,9 +12,9 @@ I'm a **Web Builder & Creative Web Developer** who lives at the intersection of 
 
 ### What I build
 
-- ✦ **Creative websites** — bold landing pages, portfolios, and brand experiences
-- ✦ **Modern web apps** — scalable products with thoughtful UX and clean architecture
-- ✦ **Interactive moments** — motion, 3D, and micro-interactions that make the web feel alive
+✦ **Creative websites** — bold landing pages, portfolios, and brand experiences
+✦ **Modern web apps** — scalable products with thoughtful UX and clean architecture
+✦ **Interactive moments** — motion, 3D, and micro-interactions that make the web feel alive
 
 ### Creative toolkit
 
@@ -32,7 +32,7 @@ I'm a **Web Builder & Creative Web Developer** who lives at the intersection of 
 
 <p align="center">
   <a href="mailto:hoagminhit@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-111827?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email Minh" /></a>
-  <a href="https://www.linkedin.com/in/pham-hoang-minh-26a12125b/"><img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hoagminhpham/"><img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00D9FF,100:7F00FF&height=110&section=footer" alt="Footer" />
